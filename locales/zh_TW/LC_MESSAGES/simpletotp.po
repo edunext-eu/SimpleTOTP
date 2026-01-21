@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "處理中..."
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "需要雙因素驗證"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "要繼續，請使用已設定的裝置輸入目前的多因素驗證權杖。"
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "如果你不確定這表示什麼，或已遺失你的雙因素驗證裝置，請聯絡 IT 服務台尋求協助。"
+
+msgid "Authentication Error"
+msgstr "驗證錯誤"
+
+msgid "TOTP Code:"
+msgstr "TOTP 代碼:"
+
+msgid "TOTP code"
+msgstr "TOTP 代碼"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "需要多因素驗證"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "看起來你沒有設定多因素驗證。此系統已設定為必須使用多因素驗證。"
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "如果你不確定這表示什麼，或已遺失你的多因素驗證裝置，請聯絡 IT 服務台尋求協助。"
+
+msgid "You must enter a TOTP token."
+msgstr "你必須輸入一個 TOTP 權杖。"
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "有效的 TOTP 權杖只能包含數字。"
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "有效的 TOTP 權杖必須為 6 位數。"
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "你輸入了錯誤的 TOTP 權杖。"
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "TOTP 嘗試次數過多。請稍後再試。"
+
+msgid "Not you? Start over"
+msgstr "不是你？重新開始"
+

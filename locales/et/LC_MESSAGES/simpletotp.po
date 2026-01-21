@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "Töötlemine..."
+
+msgid "Submit"
+msgstr "Esita"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "Kahefaktoriline autentimine on nõutav"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "Jätkamiseks peate sisestama oma praeguse mitmefaktorilise autentimiskoodi konfigureeritud seadmest."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Kui te pole kindel, mida see tähendab, või olete kaotanud oma kahefaktorilise autentimisseadme, võtke ühendust IT kasutajatoega."
+
+msgid "Authentication Error"
+msgstr "Autentimisviga"
+
+msgid "TOTP Code:"
+msgstr "TOTP kood:"
+
+msgid "TOTP code"
+msgstr "TOTP kood"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Mitmefaktoriline autentimine on nõutav"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Tundub, et teil pole mitmefaktorilist autentimist seadistatud. See süsteem on seadistatud nii, et mitmefaktoriline autentimine on kohustuslik."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Kui te pole kindel, mida see tähendab, või olete kaotanud oma mitmefaktorilise autentimisseadme, võtke ühendust IT kasutajatoega."
+
+msgid "You must enter a TOTP token."
+msgstr "Peate sisestama TOTP koodi."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "Kehtiv TOTP kood sisaldab ainult numbreid."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "Kehtiv TOTP kood peab olema 6 numbri pikkune."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "Sisestasite vale TOTP koodi."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "Liiga palju TOTP katseid. Proovige hiljem uuesti."
+
+msgid "Not you? Start over"
+msgstr "Mitte sina? Alusta uuesti"
+

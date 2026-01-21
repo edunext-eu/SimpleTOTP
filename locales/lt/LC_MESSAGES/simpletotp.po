@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "Apdorojama..."
+
+msgid "Submit"
+msgstr "Siųsti"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "Reikalinga dviejų veiksnių autentifikacija"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "Norėdami tęsti, turite įvesti dabartinį daugiaveiksnės autentifikacijos kodą iš savo sukonfigūruoto įrenginio."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Jei nesate tikri, ką tai reiškia, arba praradote dviejų veiksnių autentifikavimo įrenginį, susisiekite su IT pagalba."
+
+msgid "Authentication Error"
+msgstr "Autentifikavimo klaida"
+
+msgid "TOTP Code:"
+msgstr "TOTP kodas:"
+
+msgid "TOTP code"
+msgstr "TOTP kodas"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Reikalinga daugiaveiksnė autentifikacija"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Atrodo, kad nesate sukonfigūravę daugiaveiksnės autentifikacijos. Ši sistema sukonfigūruota taip, kad daugiaveiksnė autentifikacija yra privaloma."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Jei nesate tikri, ką tai reiškia, arba praradote daugiaveiksnės autentifikacijos įrenginį, susisiekite su IT pagalba."
+
+msgid "You must enter a TOTP token."
+msgstr "Turite įvesti TOTP kodą."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "Tinkamas TOTP kodas sudarytas tik iš skaitinių reikšmių."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "Tinkamas TOTP kodas turi būti 6 skaitmenų ilgio."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "Įvedėte neteisingą TOTP kodą."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "Per daug TOTP bandymų. Bandykite vėliau."
+
+msgid "Not you? Start over"
+msgstr "Ne jūs? Pradėti iš naujo"
+

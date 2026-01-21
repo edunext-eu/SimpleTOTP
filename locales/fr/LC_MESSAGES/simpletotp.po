@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "Traitement..."
+
+msgid "Submit"
+msgstr "Envoyer"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "Authentification à deux facteurs requise"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "Vous devez saisir votre code d'authentification multifacteur actuel à l'aide de votre appareil configuré pour continuer."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Si vous ne savez pas ce que cela signifie ou si vous avez perdu votre appareil d'authentification à deux facteurs, contactez votre support informatique."
+
+msgid "Authentication Error"
+msgstr "Erreur d'authentification"
+
+msgid "TOTP Code:"
+msgstr "Code TOTP :"
+
+msgid "TOTP code"
+msgstr "Code TOTP"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Authentification multifacteur requise"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Il semble que vous n'ayez pas configuré l'authentification multifacteur. Ce système est configuré de sorte que l'authentification multifacteur est obligatoire."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Si vous ne savez pas ce que cela signifie ou si vous avez perdu votre appareil d'authentification multifacteur, contactez votre support informatique."
+
+msgid "You must enter a TOTP token."
+msgstr "Vous devez saisir un jeton TOTP."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "Un jeton TOTP valide ne contient que des chiffres."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "Un jeton TOTP valide doit comporter 6 chiffres."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "Vous avez saisi un jeton TOTP incorrect."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "Trop de tentatives TOTP. Veuillez réessayer plus tard."
+
+msgid "Not you? Start over"
+msgstr "Pas vous ? Recommencer"
+

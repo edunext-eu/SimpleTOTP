@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "処理中..."
+
+msgid "Submit"
+msgstr "送信"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "二要素認証が必要です"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "続行するには、設定済みのデバイスで生成された現在の多要素認証トークンを入力してください。"
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "これが何を意味するのか分からない場合、または二要素認証デバイスを紛失した場合は、ITヘルプデスクに連絡してください。"
+
+msgid "Authentication Error"
+msgstr "認証エラー"
+
+msgid "TOTP Code:"
+msgstr "TOTPコード:"
+
+msgid "TOTP code"
+msgstr "TOTPコード"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "多要素認証が必要です"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "多要素認証が設定されていないようです。このシステムは多要素認証が必須になるように構成されています。"
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "これが何を意味するのか分からない場合、または多要素認証デバイスを紛失した場合は、ITヘルプデスクに連絡してください。"
+
+msgid "You must enter a TOTP token."
+msgstr "TOTPトークンを入力する必要があります。"
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "有効なTOTPトークンは数字のみで構成されます。"
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "有効なTOTPトークンは6桁である必要があります。"
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "誤ったTOTPトークンを入力しました。"
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "TOTPの試行回数が多すぎます。後でもう一度お試しください。"
+
+msgid "Not you? Start over"
+msgstr "あなたではありませんか？最初からやり直す"
+

@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "Feldolgozás..."
+
+msgid "Submit"
+msgstr "Küldés"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "Kétfaktoros hitelesítés szükséges"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "A folytatáshoz meg kell adnia a konfigurált eszközén generált aktuális többfaktoros hitelesítési kódot."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Ha nem biztos benne, mit jelent ez, vagy elveszítette a kétfaktoros eszközét, lépjen kapcsolatba az IT ügyfélszolgálattal."
+
+msgid "Authentication Error"
+msgstr "Hitelesítési hiba"
+
+msgid "TOTP Code:"
+msgstr "TOTP kód:"
+
+msgid "TOTP code"
+msgstr "TOTP kód"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Többfaktoros hitelesítés szükséges"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Úgy tűnik, nincs beállítva a többfaktoros hitelesítés. A rendszer úgy van beállítva, hogy a többfaktoros hitelesítés kötelező."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Ha nem biztos benne, mit jelent ez, vagy elveszítette a többfaktoros eszközét, lépjen kapcsolatba az IT ügyfélszolgálattal."
+
+msgid "You must enter a TOTP token."
+msgstr "Meg kell adnia egy TOTP kódot."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "A érvényes TOTP kód csak számjegyekből áll."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "Az érvényes TOTP kód 6 számjegy hosszú."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "Hibás TOTP kódot adott meg."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "Túl sok TOTP-próbálkozás. Kérjük, próbálja meg később."
+
+msgid "Not you? Start over"
+msgstr "Nem te vagy? Kezdje elölről"
+

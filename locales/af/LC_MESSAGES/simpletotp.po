@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "Besig om te verwerk..."
+
+msgid "Submit"
+msgstr "Stuur"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "Twee-faktor-verifikasie vereis"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "Jy moet jou huidige multifaktor-verifikasiekode vanaf jou gekonfigureerde toestel invoer om voort te gaan."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "As jy nie seker is wat dit beteken nie, of jy jou twee-faktor-toestel verloor het, moet jy die IT-ondersteuning kontak vir hulp."
+
+msgid "Authentication Error"
+msgstr "Verifikasiefout"
+
+msgid "TOTP Code:"
+msgstr "TOTP-kode:"
+
+msgid "TOTP code"
+msgstr "TOTP-kode"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Multifaktor-verifikasie vereis"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Dit lyk of jy nie multifaktor-verifikasie opgestel het nie. Hierdie stelsel is so opgestel dat multifaktor-verifikasie verpligtend is."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "As jy nie seker is wat dit beteken nie, of jy jou multifaktor-toestel verloor het, moet jy die IT-ondersteuning kontak vir hulp."
+
+msgid "You must enter a TOTP token."
+msgstr "Jy moet 'n TOTP-token invoer."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "'n Geldige TOTP-token bestaan slegs uit numeriese waardes."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "'n Geldige TOTP-token moet 6 syfers lank wees."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "Jy het 'n verkeerde TOTP-token ingevoer."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "Te veel TOTP-pogings. Probeer later weer."
+
+msgid "Not you? Start over"
+msgstr "Nie jy nie? Begin van vooraf"
+

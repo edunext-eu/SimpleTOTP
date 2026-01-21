@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "Kuyacutshungulwa..."
+
+msgid "Submit"
+msgstr "Thumela"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "Kudingeka ukuqinisekiswa kwezinto ezimbili"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "Ukuze uqhubeke, kufanele ufake ikhodi yakho yamanje yokuqinisekisa izinto eziningi kusuka kudivayisi yakho emisiwe."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Uma ungaqiniseki ukuthi kusho ukuthini lokhu, noma ulahlekelwe idivayisi yakho yokuqinisekisa izinto ezimbili, xhumana nosizo lwe-IT ukuze uthole usizo."
+
+msgid "Authentication Error"
+msgstr "Iphutha lokuqinisekisa"
+
+msgid "TOTP Code:"
+msgstr "Ikhodi ye-TOTP:"
+
+msgid "TOTP code"
+msgstr "Ikhodi ye-TOTP"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Kudingeka ukuqinisekiswa kwezinto eziningi"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Kubonakala sengathi awukakumisi ukuqinisekiswa kwezinto eziningi. Lolu hlelo luhlelwe ukuze ukuqinisekiswa kwezinto eziningi kube yimpoqo."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Uma ungaqiniseki ukuthi kusho ukuthini lokhu, noma ulahlekelwe idivayisi yakho yokuqinisekisa izinto eziningi, xhumana nosizo lwe-IT ukuze uthole usizo."
+
+msgid "You must enter a TOTP token."
+msgstr "Kufanele ufake i-TOTP token."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "I-TOTP token evumelekile iqukethe izinombolo kuphela."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "I-TOTP token evumelekile kufanele ibe namadijithi angu-6."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "Ufake i-TOTP token engalungile."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "Imizamo eminingi ye-TOTP. Sicela uzame futhi kamuva."
+
+msgid "Not you? Start over"
+msgstr "Akusiyo wena? Qala phansi"
+

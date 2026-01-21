@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "Zpracovává se..."
+
+msgid "Submit"
+msgstr "Odeslat"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "Vyžadováno dvoufaktorové ověření"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "Pro pokračování musíte zadat svůj aktuální multifaktorový ověřovací kód ze svého nakonfigurovaného zařízení."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Pokud si nejste jisti, co to znamená, nebo jste ztratili své zařízení pro dvoufaktorové ověření, kontaktujte IT helpdesk."
+
+msgid "Authentication Error"
+msgstr "Chyba ověření"
+
+msgid "TOTP Code:"
+msgstr "Kód TOTP:"
+
+msgid "TOTP code"
+msgstr "Kód TOTP"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Vyžadováno multifaktorové ověření"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Zdá se, že nemáte nakonfigurované multifaktorové ověření. Tento systém je nastaven tak, že multifaktorové ověření je povinné."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Pokud si nejste jisti, co to znamená, nebo jste ztratili své zařízení pro multifaktorové ověření, kontaktujte IT helpdesk."
+
+msgid "You must enter a TOTP token."
+msgstr "Musíte zadat TOTP kód."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "Platný TOTP kód se skládá pouze z číselných hodnot."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "Platný TOTP kód musí mít 6 číslic."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "Zadali jste nesprávný TOTP kód."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "Příliš mnoho pokusů o TOTP. Zkuste to prosím později."
+
+msgid "Not you? Start over"
+msgstr "Nejste to vy? Začít znovu"
+

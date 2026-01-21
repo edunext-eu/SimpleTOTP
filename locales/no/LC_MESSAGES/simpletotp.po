@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "Behandler..."
+
+msgid "Submit"
+msgstr "Send inn"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "Tofaktorautentisering kreves"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "Du må oppgi din nåværende tofaktorautentiseringskode fra den konfigurerte enheten for å fortsette."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Hvis du er usikker på hva dette betyr, eller har mistet tofaktorenheten din, må du kontakte IT-brukerstøtten for hjelp."
+
+msgid "Authentication Error"
+msgstr "Autentiseringsfeil"
+
+msgid "TOTP Code:"
+msgstr "TOTP-kode:"
+
+msgid "TOTP code"
+msgstr "TOTP-kode"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Multifaktorautentisering kreves"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Det ser ut til at du ikke har konfigurert multifaktorautentisering. Dette systemet er konfigurert slik at multifaktorautentisering er obligatorisk."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Hvis du er usikker på hva dette betyr, eller har mistet multifaktorenheten din, må du kontakte IT-brukerstøtten for hjelp."
+
+msgid "You must enter a TOTP token."
+msgstr "Du må oppgi en TOTP-kode."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "En gyldig TOTP-kode består bare av numeriske verdier."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "En gyldig TOTP-kode må være 6 sifre."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "Du har oppgitt feil TOTP-kode."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "For mange TOTP-forsøk. Prøv igjen senere."
+
+msgid "Not you? Start over"
+msgstr "Ikke deg? Start på nytt"
+

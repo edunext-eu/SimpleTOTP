@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "Obdelava..."
+
+msgid "Submit"
+msgstr "Pošlji"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "Zahtevana je dvofaktorska avtentikacija"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "Za nadaljevanje morate vnesti trenutno kodo za večfaktorsko avtentikacijo iz konfigurirane naprave."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Če niste prepričani, kaj to pomeni, ali ste izgubili napravo za dvofaktorsko avtentikacijo, se obrnite na IT pomoč."
+
+msgid "Authentication Error"
+msgstr "Napaka pri avtentikaciji"
+
+msgid "TOTP Code:"
+msgstr "TOTP koda:"
+
+msgid "TOTP code"
+msgstr "TOTP koda"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Zahtevana je večfaktorska avtentikacija"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Zdi se, da nimate nastavljene večfaktorske avtentikacije. Sistem je nastavljen tako, da je večfaktorska avtentikacija obvezna."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Če niste prepričani, kaj to pomeni, ali ste izgubili napravo za večfaktorsko avtentikacijo, se obrnite na IT pomoč."
+
+msgid "You must enter a TOTP token."
+msgstr "Vnesti morate TOTP kodo."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "Veljavna TOTP koda vsebuje samo številke."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "Veljavna TOTP koda mora imeti 6 števk."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "Vnesli ste napačno TOTP kodo."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "Preveč TOTP poskusov. Poskusite znova pozneje."
+
+msgid "Not you? Start over"
+msgstr "Niste vi? Začni znova"
+

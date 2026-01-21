@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "Se procesează..."
+
+msgid "Submit"
+msgstr "Trimite"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "Este necesară autentificarea cu doi factori"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "Pentru a continua, trebuie să introduceți tokenul de autentificare multifactor curent folosind dispozitivul configurat."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Dacă nu sunteți sigur ce înseamnă acest lucru sau ați pierdut dispozitivul de autentificare cu doi factori, contactați helpdesk-ul IT pentru asistență."
+
+msgid "Authentication Error"
+msgstr "Eroare de autentificare"
+
+msgid "TOTP Code:"
+msgstr "Cod TOTP:"
+
+msgid "TOTP code"
+msgstr "Cod TOTP"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Este necesară autentificarea multifactor"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Se pare că nu aveți configurată autentificarea multifactor. Acest sistem este configurat astfel încât autentificarea multifactor este obligatorie."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Dacă nu sunteți sigur ce înseamnă acest lucru sau ați pierdut dispozitivul de autentificare multifactor, contactați helpdesk-ul IT pentru asistență."
+
+msgid "You must enter a TOTP token."
+msgstr "Trebuie să introduceți un token TOTP."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "Un token TOTP valid conține doar valori numerice."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "Un token TOTP valid trebuie să aibă 6 cifre."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "Ați introdus un token TOTP incorect."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "Prea multe încercări TOTP. Vă rugăm să încercați din nou mai târziu."
+
+msgid "Not you? Start over"
+msgstr "Nu sunteți dvs.? Începeți din nou"
+

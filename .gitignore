@@ -1,0 +1,12 @@
+# Composer artifacts
+/vendor/
+/composer.lock
+
+# Editor/OS noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.log
+*.code-workspace

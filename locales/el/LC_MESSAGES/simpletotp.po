@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "Επεξεργασία..."
+
+msgid "Submit"
+msgstr "Υποβολή"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "Απαιτείται έλεγχος ταυτότητας δύο παραγόντων"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "Για να συνεχίσετε, πρέπει να εισαγάγετε τον τρέχοντα κωδικό πολυπαραγοντικού ελέγχου ταυτότητας από τη διαμορφωμένη συσκευή σας."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Αν δεν είστε βέβαιοι τι σημαίνει αυτό ή αν χάσατε τη συσκευή δύο παραγόντων, επικοινωνήστε με το IT helpdesk για βοήθεια."
+
+msgid "Authentication Error"
+msgstr "Σφάλμα αυθεντικοποίησης"
+
+msgid "TOTP Code:"
+msgstr "Κωδικός TOTP:"
+
+msgid "TOTP code"
+msgstr "Κωδικός TOTP"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Απαιτείται πολυπαραγοντικός έλεγχος ταυτότητας"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Φαίνεται ότι δεν έχετε διαμορφώσει πολυπαραγοντικό έλεγχο ταυτότητας. Αυτό το σύστημα έχει ρυθμιστεί έτσι ώστε ο πολυπαραγοντικός έλεγχος ταυτότητας να είναι υποχρεωτικός."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Αν δεν είστε βέβαιοι τι σημαίνει αυτό ή αν χάσατε τη συσκευή πολυπαραγοντικού ελέγχου ταυτότητας, επικοινωνήστε με το IT helpdesk για βοήθεια."
+
+msgid "You must enter a TOTP token."
+msgstr "Πρέπει να εισαγάγετε ένα TOTP token."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "Ένα έγκυρο TOTP token αποτελείται μόνο από αριθμητικές τιμές."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "Ένα έγκυρο TOTP token πρέπει να έχει 6 ψηφία."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "Έχετε εισαγάγει λανθασμένο TOTP token."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "Πάρα πολλές προσπάθειες TOTP. Παρακαλώ δοκιμάστε αργότερα."
+
+msgid "Not you? Start over"
+msgstr "Δεν είστε εσείς; Ξεκινήστε από την αρχή"
+

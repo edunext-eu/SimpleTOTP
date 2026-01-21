@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "E sebetsa..."
+
+msgid "Submit"
+msgstr "Romela"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "Ho hlokahala netefatso ea lintlha tse peli"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "Ho tsoela pele, o tlameha ho kenya khoutu ea hau ea hajoale ea netefatso ea lintlha tse ngata ho tsoa sesebedisong sa hao se hlophisitsoeng."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Haeba o sa tsebe hore na sena se bolela'ng, kapa o lahlehetsoe ke sesebediswa sa hao sa netefatso ea lintlha tse peli, ikopanye le thuso ea IT."
+
+msgid "Authentication Error"
+msgstr "Phoso ea netefatso"
+
+msgid "TOTP Code:"
+msgstr "Khoutu ea TOTP:"
+
+msgid "TOTP code"
+msgstr "Khoutu ea TOTP"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Ho hlokahala netefatso ea lintlha tse ngata"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Ho bonahala eka ha o so hlophise netefatso ea lintlha tse ngata. Sistimi ena e hlophisitsoe hore netefatso ea lintlha tse ngata e be tlamo."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Haeba o sa tsebe hore na sena se bolela'ng, kapa o lahlehetsoe ke sesebediswa sa hao sa netefatso ea lintlha tse ngata, ikopanye le thuso ea IT."
+
+msgid "You must enter a TOTP token."
+msgstr "O tlameha ho kenya token ea TOTP."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "Token ea TOTP e nepahetseng e na le linomoro feela."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "Token ea TOTP e nepahetseng e tlameha ho ba bolelele ba dinomoro tse 6."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "O kentse token ea TOTP e fosahetseng."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "Mekhoa e mengata ea TOTP. Ka kopo leka hape hamorao."
+
+msgid "Not you? Start over"
+msgstr "Ha se wena? Qala hape"
+

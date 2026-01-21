@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "Apstrāde..."
+
+msgid "Submit"
+msgstr "Iesniegt"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "Nepieciešama divu faktoru autentifikācija"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "Lai turpinātu, jums jāievada pašreizējais daudzfaktoru autentifikācijas kods no konfigurētās ierīces."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Ja neesat pārliecināts, ko tas nozīmē, vai esat pazaudējis divu faktoru autentifikācijas ierīci, sazinieties ar IT atbalstu."
+
+msgid "Authentication Error"
+msgstr "Autentifikācijas kļūda"
+
+msgid "TOTP Code:"
+msgstr "TOTP kods:"
+
+msgid "TOTP code"
+msgstr "TOTP kods"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Nepieciešama daudzfaktoru autentifikācija"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Izskatās, ka jums nav konfigurēta daudzfaktoru autentifikācija. Šī sistēma ir konfigurēta tā, ka daudzfaktoru autentifikācija ir obligāta."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Ja neesat pārliecināts, ko tas nozīmē, vai esat pazaudējis daudzfaktoru autentifikācijas ierīci, sazinieties ar IT atbalstu."
+
+msgid "You must enter a TOTP token."
+msgstr "Jums jāievada TOTP kods."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "Derīgs TOTP kods sastāv tikai no cipariem."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "Derīgam TOTP kodam jābūt 6 ciparu garam."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "Jūs ievadījāt nepareizu TOTP kodu."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "Pārāk daudz TOTP mēģinājumu. Lūdzu, mēģiniet vēlāk."
+
+msgid "Not you? Start over"
+msgstr "Neesat jūs? Sākt no jauna"
+

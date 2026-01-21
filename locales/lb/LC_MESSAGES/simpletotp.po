@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "Veraarbechtung..."
+
+msgid "Submit"
+msgstr "Ofschécken"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "Zwee-Faktor-Authentifikatioun erfuerderlech"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "Dir musst Ären aktuellen Multifaktor-Authentifikatiounscode mat Ärem konfiguréiertem Apparat aginn, fir weiderzegoen."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Wann Dir net sécher sidd, wat dat bedeit, oder Dir Ären Zwee-Faktor-Apparat verluer hutt, kontaktéiert w.e.g. den IT-Helpdesk."
+
+msgid "Authentication Error"
+msgstr "Authentifikatiounsfeeler"
+
+msgid "TOTP Code:"
+msgstr "TOTP-Code:"
+
+msgid "TOTP code"
+msgstr "TOTP-Code"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Multifaktor-Authentifikatioun erfuerderlech"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Et schéngt, datt Dir d'Multifaktor-Authentifikatioun net konfiguréiert hutt. Dëse System ass esou konfiguréiert, datt d'Multifaktor-Authentifikatioun obligatoresch ass."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Wann Dir net sécher sidd, wat dat bedeit, oder Dir Ären Multifaktor-Apparat verluer hutt, kontaktéiert w.e.g. den IT-Helpdesk."
+
+msgid "You must enter a TOTP token."
+msgstr "Dir musst en TOTP-Code aginn."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "En valabele TOTP-Code besteet nëmmen aus numeresche Wäerter."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "En valabele TOTP-Code muss 6 Zifferen laang sinn."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "Dir hutt en falschen TOTP-Code aginn."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "Ze vill TOTP-Versich. Probéiert et méi spéit nach eng Kéier."
+
+msgid "Not you? Start over"
+msgstr "Net du? Nei ufänken"
+

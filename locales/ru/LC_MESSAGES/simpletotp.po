@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "Обработка..."
+
+msgid "Submit"
+msgstr "Отправить"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "Требуется двухфакторная аутентификация"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "Чтобы продолжить, введите текущий код многофакторной аутентификации с вашего настроенного устройства."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Если вы не уверены, что это значит, или потеряли свое устройство двухфакторной аутентификации, обратитесь в ИТ-службу поддержки."
+
+msgid "Authentication Error"
+msgstr "Ошибка аутентификации"
+
+msgid "TOTP Code:"
+msgstr "Код TOTP:"
+
+msgid "TOTP code"
+msgstr "Код TOTP"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Требуется многофакторная аутентификация"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Похоже, у вас не настроена многофакторная аутентификация. Эта система настроена так, что многофакторная аутентификация обязательна."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Если вы не уверены, что это значит, или потеряли свое устройство многофакторной аутентификации, обратитесь в ИТ-службу поддержки."
+
+msgid "You must enter a TOTP token."
+msgstr "Вы должны ввести TOTP-токен."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "Допустимый TOTP-токен состоит только из цифр."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "Допустимый TOTP-токен должен быть длиной 6 цифр."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "Вы ввели неверный TOTP-токен."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "Слишком много попыток TOTP. Пожалуйста, попробуйте позже."
+
+msgid "Not you? Start over"
+msgstr "Это не вы? Начать заново"
+

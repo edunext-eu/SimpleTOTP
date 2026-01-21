@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "İşleniyor..."
+
+msgid "Submit"
+msgstr "Gönder"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "İki faktörlü kimlik doğrulama gerekiyor"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "Devam etmek için yapılandırılmış cihazınızdan mevcut çok faktörlü kimlik doğrulama kodunu girmeniz gerekir."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Bunun ne anlama geldiğinden emin değilseniz veya iki faktörlü cihazınızı kaybettiyseniz, yardım için BT destek birimiyle iletişime geçin."
+
+msgid "Authentication Error"
+msgstr "Kimlik doğrulama hatası"
+
+msgid "TOTP Code:"
+msgstr "TOTP Kodu:"
+
+msgid "TOTP code"
+msgstr "TOTP kodu"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Çok faktörlü kimlik doğrulama gerekiyor"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Çok faktörlü kimlik doğrulamayı yapılandırmadığınız anlaşılıyor. Bu sistem, çok faktörlü kimlik doğrulamanın zorunlu olduğu şekilde yapılandırılmıştır."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Bunun ne anlama geldiğinden emin değilseniz veya çok faktörlü cihazınızı kaybettiyseniz, yardım için BT destek birimiyle iletişime geçin."
+
+msgid "You must enter a TOTP token."
+msgstr "Bir TOTP kodu girmelisiniz."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "Geçerli bir TOTP kodu yalnızca sayısal değerlerden oluşur."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "Geçerli bir TOTP kodu 6 haneli olmalıdır."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "Yanlış TOTP kodu girdiniz."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "Çok fazla TOTP denemesi. Lütfen daha sonra tekrar deneyin."
+
+msgid "Not you? Start over"
+msgstr "Siz değil misiniz? Baştan başlayın"
+

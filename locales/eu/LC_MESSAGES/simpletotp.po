@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "Prozesatzen..."
+
+msgid "Submit"
+msgstr "Bidali"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "Bi faktoreko autentifikazioa behar da"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "Jarraitzeko, zure gailu konfiguratuan sortutako multifaktoreko autentifikazio tokena sartu behar duzu."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Ez badakizu zer esan nahi duen honek, edo bi faktoreko autentifikazio gailua galdu baduzu, IT laguntza-zerbitzuarekin harremanetan jarri."
+
+msgid "Authentication Error"
+msgstr "Autentifikazio errorea"
+
+msgid "TOTP Code:"
+msgstr "TOTP kodea:"
+
+msgid "TOTP code"
+msgstr "TOTP kodea"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Multifaktoreko autentifikazioa behar da"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Badirudi ez duzula multifaktoreko autentifikaziorik konfiguratu. Sistema hau multifaktoreko autentifikazioa derrigorrezkoa izan dadin konfiguratuta dago."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Ez badakizu zer esan nahi duen honek, edo multifaktoreko autentifikazio gailua galdu baduzu, IT laguntza-zerbitzuarekin harremanetan jarri."
+
+msgid "You must enter a TOTP token."
+msgstr "TOTP token bat sartu behar duzu."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "Baliozko TOTP tokena zenbakizko balioez soilik osatuta dago."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "Baliozko TOTP tokenak 6 digitu izan behar ditu."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "TOTP token okerra sartu duzu."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "TOTP saiakera gehiegi. Saiatu berriro geroago."
+
+msgid "Not you? Start over"
+msgstr "Ez zara zu? Hasi berriro"
+

@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "Memproses..."
+
+msgid "Submit"
+msgstr "Kirim"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "Autentikasi dua faktor diperlukan"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "Anda harus memasukkan token autentikasi multifaktor saat ini dari perangkat yang dikonfigurasi untuk melanjutkan."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Jika Anda tidak yakin apa artinya, atau kehilangan perangkat autentikasi dua faktor, silakan hubungi helpdesk TI untuk bantuan."
+
+msgid "Authentication Error"
+msgstr "Kesalahan autentikasi"
+
+msgid "TOTP Code:"
+msgstr "Kode TOTP:"
+
+msgid "TOTP code"
+msgstr "Kode TOTP"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Autentikasi multifaktor diperlukan"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Tampaknya Anda belum mengonfigurasi autentikasi multifaktor. Sistem ini dikonfigurasi sehingga autentikasi multifaktor wajib digunakan."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Jika Anda tidak yakin apa artinya, atau kehilangan perangkat autentikasi multifaktor, silakan hubungi helpdesk TI untuk bantuan."
+
+msgid "You must enter a TOTP token."
+msgstr "Anda harus memasukkan token TOTP."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "Token TOTP yang valid hanya terdiri dari angka."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "Token TOTP yang valid harus 6 digit."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "Anda memasukkan token TOTP yang salah."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "Terlalu banyak percobaan TOTP. Silakan coba lagi nanti."
+
+msgid "Not you? Start over"
+msgstr "Bukan Anda? Mulai lagi"
+

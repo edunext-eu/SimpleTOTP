@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "Käsitellään..."
+
+msgid "Submit"
+msgstr "Lähetä"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "Kaksivaiheinen tunnistautuminen vaaditaan"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "Sinun on annettava nykyinen monivaiheinen tunnistuskoodi määritetystä laitteestasi jatkaaksesi."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Jos et ole varma, mitä tämä tarkoittaa, tai olet kadottanut kaksivaiheisen tunnistuslaitteesi, ota yhteyttä IT-tukeen."
+
+msgid "Authentication Error"
+msgstr "Tunnistusvirhe"
+
+msgid "TOTP Code:"
+msgstr "TOTP-koodi:"
+
+msgid "TOTP code"
+msgstr "TOTP-koodi"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Monivaiheinen tunnistautuminen vaaditaan"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Näyttää siltä, että monivaiheista tunnistautumista ei ole määritetty. Tämä järjestelmä on määritetty siten, että monivaiheinen tunnistautuminen on pakollinen."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Jos et ole varma, mitä tämä tarkoittaa, tai olet kadottanut monivaiheisen tunnistuslaitteesi, ota yhteyttä IT-tukeen."
+
+msgid "You must enter a TOTP token."
+msgstr "Sinun on annettava TOTP-koodi."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "Kelvollinen TOTP-koodi sisältää vain numeromerkkejä."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "Kelvollisen TOTP-koodin on oltava 6 numeron pituinen."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "Olet antanut väärän TOTP-koodin."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "Liian monta TOTP-yritystä. Yritä myöhemmin uudelleen."
+
+msgid "Not you? Start over"
+msgstr "Etkö sinä? Aloita alusta"
+

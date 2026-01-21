@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "בעיבוד..."
+
+msgid "Submit"
+msgstr "שלח"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "נדרשת אימות דו-שלבי"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "כדי להמשיך, עליך להזין את קוד האימות הרב-שלבי הנוכחי מהמכשיר שהוגדר עבורך."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "אם אינך בטוח מה זה אומר או שאיבדת את מכשיר האימות הדו-שלבי שלך, עליך לפנות לתמיכת ה-IT לקבלת עזרה."
+
+msgid "Authentication Error"
+msgstr "שגיאת אימות"
+
+msgid "TOTP Code:"
+msgstr "קוד TOTP:"
+
+msgid "TOTP code"
+msgstr "קוד TOTP"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "נדרש אימות רב-שלבי"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "נראה שלא הגדרת אימות רב-שלבי. מערכת זו מוגדרת כך שאימות רב-שלבי הוא חובה."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "אם אינך בטוח מה זה אומר או שאיבדת את מכשיר האימות הרב-שלבי שלך, עליך לפנות לתמיכת ה-IT לקבלת עזרה."
+
+msgid "You must enter a TOTP token."
+msgstr "עליך להזין אסימון TOTP."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "אסימון TOTP תקין מכיל רק ספרות."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "אסימון TOTP תקין חייב להיות באורך 6 ספרות."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "הזנת אסימון TOTP שגוי."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "יותר מדי ניסיונות TOTP. נסה שוב מאוחר יותר."
+
+msgid "Not you? Start over"
+msgstr "לא אתה? התחל מחדש"
+

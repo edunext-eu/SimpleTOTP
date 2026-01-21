@@ -7,13 +7,19 @@
 {% extends '@core/base.twig' %}
 
 {% block preload %}
-<link rel="stylesheet" type="test/css" href="/{{ baseurlpath }}/module.php/simpletotp/style.css" />
+<link rel="stylesheet" type="text/css" href="/{{ baseurlpath }}/module.php/simpletotp/style.css" />
 {% endblock %}
 
 {% block content %}
 
-<h1>Multi-Factor Authentication Required</h1>
-<p>It seems you do not have multi-factor authentication configured.  This system has been configured such that it is mandatory to use multi-factor authentication.</p>
-<p>If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance.</p>
+<h1>{% trans %}Multi-Factor Authentication Required{% endtrans %}</h1>
+<p>{% trans %}It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication.{% endtrans %}</p>
+<p>{% trans %}If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance.{% endtrans %}</p>
+{% if restartUrl is defined and restartReturnTo is defined %}
+<form method="post" action="{{ restartUrl }}">
+    <input type="hidden" name="ReturnTo" value="{{ restartReturnTo }}" />
+    <button class="simpletotp-restart" type="submit">{% trans %}Not you? Start over{% endtrans %}</button>
+</form>
+{% endif %}
 
 {% endblock %}

@@ -5,14 +5,14 @@
 {% extends '@core/base.twig' %}
 
 {% block preload %}
-<link rel="stylesheet" type="test/css" href="/{{ baseurlpath }}/module.php/simpletotp/style.css" />
+<link rel="stylesheet" type="text/css" href="/{{ baseurlpath }}/module.php/simpletotp/style.css" />
 {% endblock %}
 
 {% block content %}
 
-<h1>Two-Factor Authentication Required</h1>
-<p>You are required to enter your current multi-factor authentication token using your configured device to continue. <br />
-If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance.</p>
+<h1>{% trans %}Two-Factor Authentication Required{% endtrans %}</h1>
+<p>{% trans %}You are required to enter your current multi-factor authentication token using your configured device to continue.{% endtrans %}</p>
+<p>{% trans %}If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance.{% endtrans %}</p>
 
 {% if userError is defined and userError is not null %}
     <div class="pure-g">
@@ -21,7 +21,7 @@ If you are unsure what this means, or have your lost your two-factor authenticat
 
                 <h3>{% trans %}Authentication Error{% endtrans %}</h3>
 
-                <p>{{userError}}</p>
+                <p>{{ userError|trans }}</p>
 
             </div>
         </div>
@@ -29,16 +29,23 @@ If you are unsure what this means, or have your lost your two-factor authenticat
 {% endif %}
 
 <!-- <form style="display: inline; margin: 0px; padding: 0px" action="{{ formPost }}"> -->
-<form class="pure-form" action="{{ formPost }}">
+<form class="pure-form" action="{{ formPost }}" method="post">
 	{%- for name, value in formData %}
 		<input type="hidden" name="{{ name }}" value="{{ value }}" />
 	{%- endfor %}
 
-    <label for="code">TOTP Code: </label>
-    <input type="text" name="code" placeholder="TOTP code" />
+    <label for="totp">{% trans %}TOTP Code:{% endtrans %}</label>
+    <input type="text" id="totp" name="totp" class="one-time-code" autocomplete="one-time-code" inputmode="numeric" pattern="[0-9]*" placeholder="{{ 'TOTP code'|trans }}" />
     <button class="pure-button pure-button-red" type="submit" id="submit_button" data-processing="{% trans %}Processing...{% endtrans %}">
-		{% trans %}Submit{% endtrans %}
-	</button>
-</form>
+			{% trans %}Submit{% endtrans %}
+		</button>
+	</form>
+
+    {% if restartUrl is defined and restartReturnTo is defined %}
+    <form method="post" action="{{ restartUrl }}">
+        <input type="hidden" name="ReturnTo" value="{{ restartReturnTo }}" />
+        <button class="simpletotp-restart" type="submit">{% trans %}Not you? Start over{% endtrans %}</button>
+    </form>
+    {% endif %}
 
 {% endblock %}

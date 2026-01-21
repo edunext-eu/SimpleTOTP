@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "S'està processant..."
+
+msgid "Submit"
+msgstr "Envia"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "Es requereix autenticació de dos factors"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "Cal que introdueixis el teu codi d'autenticació multifactor actual amb el dispositiu configurat per continuar."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Si no saps què significa això o has perdut el dispositiu d'autenticació de dos factors, hauràs de contactar amb el servei d'assistència informàtica."
+
+msgid "Authentication Error"
+msgstr "Error d'autenticació"
+
+msgid "TOTP Code:"
+msgstr "Codi TOTP:"
+
+msgid "TOTP code"
+msgstr "Codi TOTP"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Es requereix autenticació multifactor"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Sembla que no tens configurada l'autenticació multifactor. Aquest sistema està configurat perquè l'ús de l'autenticació multifactor sigui obligatori."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Si no saps què significa això o has perdut el dispositiu d'autenticació multifactor, hauràs de contactar amb el servei d'assistència informàtica."
+
+msgid "You must enter a TOTP token."
+msgstr "Has d'introduir un token TOTP."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "Un token TOTP vàlid només conté valors numèrics."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "Un token TOTP vàlid ha de tenir 6 dígits."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "Has introduït un token TOTP incorrecte."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "Massa intents de TOTP. Torna-ho a provar més tard."
+
+msgid "Not you? Start over"
+msgstr "No ets tu? Comença de nou"
+

@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "Przetwarzanie..."
+
+msgid "Submit"
+msgstr "Wyślij"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "Wymagane uwierzytelnianie dwuskładnikowe"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "Aby kontynuować, musisz wprowadzić bieżący kod uwierzytelniania wieloskładnikowego z skonfigurowanego urządzenia."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Jeśli nie wiesz, co to oznacza, lub zgubiłeś urządzenie do uwierzytelniania dwuskładnikowego, skontaktuj się z pomocą IT."
+
+msgid "Authentication Error"
+msgstr "Błąd uwierzytelniania"
+
+msgid "TOTP Code:"
+msgstr "Kod TOTP:"
+
+msgid "TOTP code"
+msgstr "Kod TOTP"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Wymagane uwierzytelnianie wieloskładnikowe"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Wygląda na to, że nie masz skonfigurowanego uwierzytelniania wieloskładnikowego. Ten system jest skonfigurowany tak, że uwierzytelnianie wieloskładnikowe jest obowiązkowe."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Jeśli nie wiesz, co to oznacza, lub zgubiłeś urządzenie do uwierzytelniania wieloskładnikowego, skontaktuj się z pomocą IT."
+
+msgid "You must enter a TOTP token."
+msgstr "Musisz wprowadzić kod TOTP."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "Prawidłowy kod TOTP składa się wyłącznie z cyfr."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "Prawidłowy kod TOTP musi mieć 6 cyfr."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "Wprowadzono nieprawidłowy kod TOTP."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "Zbyt wiele prób TOTP. Spróbuj ponownie później."
+
+msgid "Not you? Start over"
+msgstr "To nie Ty? Zacznij od nowa"
+

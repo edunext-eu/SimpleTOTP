@@ -1,0 +1,54 @@
+msgid "Processing..."
+msgstr "Spracováva sa..."
+
+msgid "Submit"
+msgstr "Odoslať"
+
+msgid "TOTP"
+msgstr "TOTP"
+
+msgid "Two-Factor Authentication Required"
+msgstr "Vyžaduje sa dvojfaktorové overenie"
+
+msgid "You are required to enter your current multi-factor authentication token using your configured device to continue."
+msgstr "Ak chcete pokračovať, musíte zadať svoj aktuálny multifaktorový overovací kód zo svojho nakonfigurovaného zariadenia."
+
+msgid "If you are unsure what this means, or have your lost your two-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Ak si nie ste istí, čo to znamená, alebo ste stratili svoje zariadenie pre dvojfaktorové overenie, kontaktujte IT helpdesk."
+
+msgid "Authentication Error"
+msgstr "Chyba overenia"
+
+msgid "TOTP Code:"
+msgstr "TOTP kód:"
+
+msgid "TOTP code"
+msgstr "TOTP kód"
+
+msgid "Multi-Factor Authentication Required"
+msgstr "Vyžaduje sa multifaktorové overenie"
+
+msgid "It seems you do not have multi-factor authentication configured. This system has been configured such that it is mandatory to use multi-factor authentication."
+msgstr "Zdá sa, že nemáte nakonfigurované multifaktorové overenie. Tento systém je nastavený tak, že multifaktorové overenie je povinné."
+
+msgid "If you are unsure what this means, or have your lost your multi-factor authentication device, you will need to contact your IT helpdesk for assistance."
+msgstr "Ak si nie ste istí, čo to znamená, alebo ste stratili svoje zariadenie pre multifaktorové overenie, kontaktujte IT helpdesk."
+
+msgid "You must enter a TOTP token."
+msgstr "Musíte zadať TOTP kód."
+
+msgid "A valid TOTP token consists of only numeric values."
+msgstr "Platný TOTP kód obsahuje iba číselné hodnoty."
+
+msgid "A valid TOTP token must be 6 digits long."
+msgstr "Platný TOTP kód musí mať 6 číslic."
+
+msgid "You have entered the incorrect TOTP token."
+msgstr "Zadali ste nesprávny TOTP kód."
+
+msgid "Too many TOTP attempts. Please try again later."
+msgstr "Príliš veľa pokusov o TOTP. Skúste to neskôr."
+
+msgid "Not you? Start over"
+msgstr "Nie ste to vy? Začať znova"
+

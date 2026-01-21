@@ -8,3 +8,23 @@
     background-color: #FFBABA;
     background-image: url('error.png');
 }
+
+.simpletotp-restart {
+    display: inline-block;
+    margin-top: 12px;
+    padding: 0;
+    border: 0;
+    background: none;
+    font-size: 0.9em;
+    line-height: 1.2;
+    color: inherit;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.simpletotp-restart:hover,
+.simpletotp-restart:focus {
+    color: inherit;
+    text-decoration: underline;
+    padding: 0;
+}
